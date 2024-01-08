@@ -1,4 +1,6 @@
-[![Download](apq_paper_cover_20230108.png)](./Informed AI Regulation - Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values by Jon Chun and Katherine Elkins preprint.pdf)
+![Download](apq_paper_cover_20230108.png)]
+
+[Download Paper](./Informed AI Regulation - Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values by Jon Chun and Katherine Elkins preprint.pdf)
 
 ## Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values
 
