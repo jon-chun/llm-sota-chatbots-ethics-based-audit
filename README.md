@@ -2,7 +2,7 @@
 
 [Download June 2023 Paper (with Jan 2024 footnote)](./Informed%20AI%20Regulation%20-%20Comparing%20the%20Ethical%20Frameworks%20of%20Leading%20LLM%20Chatbots%20Using%20an%20Ethics-Based%20Audit%20to%20Assess%20Moral%20Reasoning%20and%20Normative%20Values%20by%20Jon%20Chun%20and%20Katherine%20Elkins%20preprint.pdf)
 
-## Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values
+## [Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values](./Informed%20AI%20Regulation%20-%20Comparing%20the%20Ethical%20Frameworks%20of%20Leading%20LLM%20Chatbots%20Using%20an%20Ethics-Based%20Audit%20to%20Assess%20Moral%20Reasoning%20and%20Normative%20Values%20by%20Jon%20Chun%20and%20Katherine%20Elkins%20preprint.pdf)
 
 ### By Jon Chun and Katherine Elkins
 
