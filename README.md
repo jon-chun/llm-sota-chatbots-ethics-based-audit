@@ -23,24 +23,20 @@ large language models (LLMs), AI safety, Human-AI alignment, AI regulation, ethi
 
 ## ACM Classification
 
-I.2.7; K.4.1; I.2.11; I.6.5
+I.2.7; K.4.1; I.2.11; I.2.0; K.6.5
 
-I.2.7 Natural Language Processing: As your paper focuses on Large Language Models (LLMs) like GPT-4, which are central to natural language processing, this category is highly relevant. It directly addresses the technological basis of your research.
-
-K.4.1 Public Policy Issues - Ethics: This category is pertinent due to the ethical audit aspect of your paper. It covers the ethical implications and considerations in computing, which are central to your research's focus on assessing moral reasoning and normative values in LLMs.
-
-I.2.11 Distributed Artificial Intelligence - Intelligent agents: Given the emphasis on autonomous agents and their networked collaboration, this category is relevant. It encompasses the study of AI systems that operate in distributed environments, which seems pertinent to your focus on commercial and open-source LLMs.
-
-I.6.5 Model Development: This category is applicable for the aspect of your paper that deals with the development and assessment of AI models, particularly in the context of ethical frameworks and moral reasoning.
+I.2.7 Natural Language Processing: For the focus on Large Language Models (LLMs).
+K.4.1 Public Policy Issues - Ethics: Relevant for the ethics-based auditing aspect.
+I.2.11 Distributed Artificial Intelligence - Intelligent agents: Pertinent for agentic and autonomous AI.
+I.2.0 Artificial Intelligence - General: To cover broad topics like AI safety, reasoning, and Human-AI alignment.
+K.6.5 Management of Computing and Information Systems - Security and Protection: This could be relevant if AI safety and regulation are framed in terms of protecting systems and data.
 
 ## MSC Classification
 
-68T27; 68T30; 68T37; 01A80
+68T27; 68T30; 68T37; 91F20; 93B52
 
-68T27 Logic in artificial intelligence: This class covers the use of logic in AI, which could be relevant if your paper involves logical frameworks or reasoning processes within AI models.
-
-68T30 Knowledge representation: If your paper delves into how knowledge is represented within AI models, particularly in the context of ethical reasoning, this class would be applicable.
-
-68T37 Reasoning under uncertainty: This is relevant if your paper discusses how LLMs handle ethical dilemmas or decisions under conditions of uncertainty.
-
-01A80 Sociology (and profession) of mathematics: While not directly related to AI, this class could be relevant if your paper touches on broader ethical or societal implications of AI in decision-making.
+68T27 Logic in artificial intelligence: For logical aspects of AI reasoning.
+68T30 Knowledge representation: Relevant if your paper deals with how LLMs represent and process ethical principles.
+68T37 Reasoning under uncertainty: For how LLMs handle ethical dilemmas or decisions under uncertain conditions.
+91F20 Computational philosophy: If the paper includes philosophical aspects of AI ethics and reasoning.
+93B52 Feedback control: If the concept of Human-AI alignment involves feedback mechanisms in AI systems.
