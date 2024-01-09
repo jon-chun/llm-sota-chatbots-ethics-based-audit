@@ -17,7 +17,7 @@ With the rise of individual and collaborative networks of autonomous agents, AI 
 
 ## KEYWORDS
 
-large language models (LLMs), AI safety, Human-AI alignment, AI regulation, ethics-based auditing (EBA), LLM reasoni
+large language models (LLMs), AI safety, Human-AI alignment, AI regulation, ethics-based auditing (EBA), LLM reasoni
 
 
 
